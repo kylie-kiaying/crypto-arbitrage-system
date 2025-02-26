@@ -1,0 +1,17 @@
+2025-02-26 22:35:35,789 - INFO - Fetching prices for BTC/USD from ['binance', 'kraken', 'coinbase']
+2025-02-26 22:35:42,476 - INFO - Prices fetched successfully
+2025-02-26 22:35:42,483 - INFO - Detecting inter-exchange arbitrage opportunities
+2025-02-26 22:35:42,484 - INFO - Total fees: 651.4495000000001
+2025-02-26 22:35:42,484 - INFO - Profit: -538.269500000007
+2025-02-26 22:35:42,484 - INFO - No arbitrage opportunity found
+2025-02-26 22:36:22,931 - INFO - Fetching prices for BTC/USD from ['binance', 'kraken', 'coinbase']
+2025-02-26 22:36:22,931 - INFO - Detecting inter-exchange arbitrage opportunities
+2025-02-26 22:36:22,931 - INFO - Total fees: 515.0
+2025-02-26 22:36:22,931 - INFO - Profit: 485.0
+2025-02-26 22:36:22,931 - INFO - Arbitrage opportunity detected: Buy on binance, Sell on coinbase, Profit: 485.0
+2025-02-26 22:37:13,630 - INFO - Fetching prices for BTC/USD from ['binance', 'kraken', 'coinbase']
+2025-02-26 22:37:21,189 - INFO - Prices fetched successfully
+2025-02-26 22:37:21,194 - INFO - Detecting inter-exchange arbitrage opportunities
+2025-02-26 22:37:21,195 - INFO - Total fees: 309.7341
+2025-02-26 22:37:21,195 - INFO - Profit: -289.0341000000029
+2025-02-26 22:37:21,195 - INFO - No arbitrage opportunity found
